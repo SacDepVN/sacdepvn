@@ -46,6 +46,6 @@ Nếu bạn muốn tham khảo thêm về xu hướng làm đẹp răng và các
 
 ---
 
-Liên hệ tư vấn: **0963234148**
+Liên hệ tư vấn: **0963234148**  [Nha Khoa Asia](https://nhakhoaasia.com)
 
 > Lưu ý: Kết quả thay đổi tùy theo tình trạng răng từng người. Vui lòng đến khám trực tiếp để bác sĩ tư vấn chi tiết.
