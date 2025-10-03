@@ -1,0 +1,22 @@
+title: "Dán răng sứ Veneer ở TPHCM — Nha khoa Asia"
+description: "Dán răng sứ Veneer tại Nha khoa Asia (TPHCM): quy trình chuẩn, bác sĩ chuyên môn, công nghệ CAD/CAM và bảo hành."
+baseurl: "/sacdepvn"
+url: "https://sacdepvn.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings  
+lang: vi_VN
+locale: vi_VN
+social:
+  name: Nha khoa Asia
+  links:
+    - https://sacdepvn.com
+
+# Custom settings
+phone: "0963234148"
+email: "info@sacdepvn.com"
